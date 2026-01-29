@@ -1,6 +1,9 @@
 # 💫 About Me:
-👋 Hi, I'm Vismay<br><br>🎓 1st Semester Engineering student  <br>🤖 Specialization: "Artificial Intelligence & Machine Learning (AIML)"<br><br>I'm a beginner in the tech world, exploring programming and AI step by step.  <br>I enjoy learning new concepts, practicing coding, and improving every day.<br><br><br>## 🌱 Currently Learning<br>- Python 🐍<br>- Basics of AI & Machine Learning<br>- Problem Solving & Logic<br>- Git & GitHub<br><br><br>## 🛠️ Skills (Beginner)<br>- Python<br>- Basic coding & debugging<br>-Basics of Numpy and Pandas<br><br><br>## 🎯 Goals<br>- Build a strong foundation in AIML<br>- Create projects<br>- Improve coding skills consistently<br>- Contribute to open source in the future
+👋 Hi, I'm Vismay<br><br>🎓 1st Semester Engineering student<br>🤖 Specialization: "Artificial Intelligence & Machine Learning (AIML)"<br><br>I'm a beginner in the tech world, exploring programming and AI step by step.<br>I enjoy learning new concepts, practicing coding, and improving every day.<br><br><br>🌱 Currently Learning<br>- Python 🐍<br>- Problem Solving & Logic<br>- Git & GitHub<br><br><br>🎯 Goals<br>- Build a strong foundation in AIML<br>- Create projects<br>- Improve coding skills consistently<br>- Contribute to open source in the future
 
+
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/vismay01) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:vismayb2007@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
