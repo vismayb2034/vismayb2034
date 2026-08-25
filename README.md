@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Vismay<br><br>🎓 1st Semester Engineering student<br>🤖 Specialization: "Artificial Intelligence & Machine Learning (AIML)"<br><br>I'm a beginner in the tech world, exploring programming and AI step by step.<br>I enjoy learning new concepts, practicing coding, and improving every day.<br><br><br>🌱 Currently Learning<br>- Python 🐍<br>- Problem Solving & Logic<br>- Git & GitHub<br><br><br>🎯 Goals<br>- Build a strong foundation in AIML<br>- Create projects<br>- Improve coding skills consistently<br>- Contribute to open source in the future
+👋 Hi, I'm Vismay<br><br>🎓 3rd Semester Engineering student<br>🤖 Specialization: "Artificial Intelligence & Machine Learning (AIML)"<br><br>I'm a beginner in the tech world, exploring programming and AI step by step.<br>I enjoy learning new concepts, practicing coding, and improving every day.<br><br><br>🌱 Currently Learning<br>- Python 🐍<br>- Problem Solving & Logic<br>- Git & GitHub<br><br><br>🎯 Goals<br>- Build a strong foundation in AIML<br>- Create projects<br>- Improve coding skills consistently<br>- Contribute to open source in the future
 
 
 ## 🌐 Socials:
